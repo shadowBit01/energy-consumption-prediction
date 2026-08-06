@@ -1,4 +1,4 @@
-# Energy Consumption Prediction by Divyansh
+# Energy Consumption Prediction
 
 A machine learning project that predicts energy consumption using **Linear Regression** and **Gradient Boosting**, built and trained in Google Colab.
 
