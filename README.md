@@ -1,4 +1,4 @@
-# Energy Consumption Prediction
+# Energy Consumption Prediction by Divyansh
 
 A machine learning project that predicts energy consumption using **Linear Regression** and **Gradient Boosting**, built and trained in Google Colab.
 
@@ -32,6 +32,7 @@ Features include: Temperature, Humidity, SquareFootage, Occupancy, HVAC Usage, L
 
 > **Note:** The dataset used in this notebook is loaded from Google Drive and is not included in this repository.
 > To run the notebook yourself:
+>
 > 1. Add your own copy of the dataset to your Google Drive.
 > 2. Update the file path in the data-loading cell of the notebook to point to your dataset.
 
@@ -57,10 +58,10 @@ energy-consumption-prediction/
 
 ## Results
 
-| Model               | Accuracy (approx.) |
-|---------------------|---------------------|
-| Linear Regression    | ~60%                |
-| Gradient Boosting    | ~60%                |
+| Model             | Accuracy (approx.) |
+| ----------------- | ------------------ |
+| Linear Regression | ~60%               |
+| Gradient Boosting | ~60%               |
 
 ## Future Improvements
 
